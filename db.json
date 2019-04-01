@@ -1,4 +1,23 @@
-{
+{"businessCategories": [
+	{ id: 1, title: "Restaurant", active: false, icon: "diet" },
+	{ id: 2, title: "Nail & Spa", active: false, icon: "manicure" },
+	{ id: 3, title: "Retail", active: false, icon: "store" },
+	{ id: 4, title: "Hotel", active: false, icon: "hotel" },
+	{ id: 5, title: "Grocery", active: false, icon: "shopping-basket" },
+	{ id: 6, title: "Travel", active: false, icon: "airplane" },
+	{ id: 7, title: "Wellness", active: false, icon: "relax" },
+	{ id: 8, title: "Gas Station", active: false, icon: "gas" },
+	{ id: 9, title: "Automotives", active: false, icon: "car" },
+	{ id: 10, title: "Carwash", active: false, icon: "car-wash" },
+	{ id: 11, title: "Bar", active: false, icon: "dj" },
+	{ id: 12, title: "Education", active: false, icon: "open-book" },
+	{ id: 13, title: "Men", active: false, icon: "student" },
+	{ id: 14, title: "Women", active: false, icon: "woman" },
+	{ id: 15, title: "Kids", active: false, icon: "baby-boy" },
+	{ id: 16, title: "Cosmetics", active: false, icon: "cosmetics" },
+	{ id: 17, title: "Boutique", active: false, icon: "dress" },
+	{ id: 18, title: "Gadgets", active: false, icon: "gadget" }
+],
 "coupons":[
   {
     "id": 1,
