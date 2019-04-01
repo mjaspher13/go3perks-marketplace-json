@@ -1,71 +1,191 @@
-{"businessCategories": [
-	{ "id": 1, "title": "Restaurant", "icon": "diet" },
-	{ "id": 2, "title": "Nail & Spa", "icon": "manicure" },
-	{ "id": 3, "title": "Retail", "icon": "store" },
-	{ "id": 4, "title": "Hotel", "icon": "hotel" },
-	{ "id": 5, "title": "Grocery", "icon": "shopping-basket" },
-	{ "id": 6, "title": "Travel", "icon": "airplane" },
-	{ "id": 7, "title": "Wellness", "icon": "relax" },
-	{ "id": 8, "title": "Gas Station", "icon": "gas" },
-	{ "id": 9, "title": "Automotives", "icon": "car" },
-	{ "id": 10, "title": "Carwash", "icon": "car-wash" },
-	{ "id": 11, "title": "Bar", "icon": "dj" },
-	{ "id": 12, "title": "Education", "icon": "open-book" },
-	{ "id": 13, "title": "Men", "icon": "student" },
-	{ "id": 14, "title": "Women", "icon": "woman" },
-	{ "id": 15, "title": "Kids", "icon": "baby-boy" },
-	{ "id": 16, "title": "Cosmetics", "icon": "cosmetics" },
-	{ "id": 17, "title": "Boutique", "icon": "dress" },
-	{ "id": 18, "title": "Gadgets", "icon": "gadget" }
-],
-"coupons":[
-  {
-    "id": 1,
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "title": "Post 3"
-  },
-  {
-    "id": 4,
-    "title": "Post 4"
-  },
-  {
-    "id": 5,
-    "title": "Post 5"
-  },
-  {
-    "id": 6,
-    "title": "Post 6"
-  },
-  {
-    "id": 7,
-    "title": "Post 7"
-  },
-  {
-    "id": 8,
-    "title": "Post 8"
-  },
-  {
-    "id": 9,
-    "title": "Post 9"
-  },
-  {
-    "id": 10,
-    "title": "Post 10"
-  },
-  {
-    "id": 11,
-    "title": "Post 11"
-  },
-  {
-    "id": 12,
-    "title": "Post 12"
-  }
-  ]
+{
+	"businessCategories": [{
+			"id": 1,
+			"title": "Restaurant",
+			"icon": "diet"
+		},
+		{
+			"id": 2,
+			"title": "Nail & Spa",
+			"icon": "manicure"
+		},
+		{
+			"id": 3,
+			"title": "Retail",
+			"icon": "store"
+		},
+		{
+			"id": 4,
+			"title": "Hotel",
+			"icon": "hotel"
+		},
+		{
+			"id": 5,
+			"title": "Grocery",
+			"icon": "shopping-basket"
+		},
+		{
+			"id": 6,
+			"title": "Travel",
+			"icon": "airplane"
+		},
+		{
+			"id": 7,
+			"title": "Wellness",
+			"icon": "relax"
+		},
+		{
+			"id": 8,
+			"title": "Gas Station",
+			"icon": "gas"
+		},
+		{
+			"id": 9,
+			"title": "Automotives",
+			"icon": "car"
+		},
+		{
+			"id": 10,
+			"title": "Carwash",
+			"icon": "car-wash"
+		},
+		{
+			"id": 11,
+			"title": "Bar",
+			"icon": "dj"
+		},
+		{
+			"id": 12,
+			"title": "Education",
+			"icon": "open-book"
+		},
+		{
+			"id": 13,
+			"title": "Men",
+			"icon": "student"
+		},
+		{
+			"id": 14,
+			"title": "Women",
+			"icon": "woman"
+		},
+		{
+			"id": 15,
+			"title": "Kids",
+			"icon": "baby-boy"
+		},
+		{
+			"id": 16,
+			"title": "Cosmetics",
+			"icon": "cosmetics"
+		},
+		{
+			"id": 17,
+			"title": "Boutique",
+			"icon": "dress"
+		},
+		{
+			"id": 18,
+			"title": "Gadgets",
+			"icon": "gadget"
+		}
+	],
+	"coupons": [{
+			"id": 1,
+			"title": "Post 1"
+		},
+		{
+			"id": 2,
+			"title": "Post 2"
+		},
+		{
+			"id": 3,
+			"title": "Post 3"
+		},
+		{
+			"id": 4,
+			"title": "Post 4"
+		},
+		{
+			"id": 5,
+			"title": "Post 5"
+		},
+		{
+			"id": 6,
+			"title": "Post 6"
+		},
+		{
+			"id": 7,
+			"title": "Post 7"
+		},
+		{
+			"id": 8,
+			"title": "Post 8"
+		},
+		{
+			"id": 9,
+			"title": "Post 9"
+		},
+		{
+			"id": 10,
+			"title": "Post 10"
+		},
+		{
+			"id": 11,
+			"title": "Post 11"
+		},
+		{
+			"id": 12,
+			"title": "Post 12"
+		}
+	],
+	"promotions": [{
+			"id": 1,
+			"title": "Promotion 1"
+		},
+		{
+			"id": 2,
+			"title": "Promotion 2"
+		},
+		{
+			"id": 3,
+			"title": "Promotion 3"
+		},
+		{
+			"id": 4,
+			"title": "Promotion 4"
+		},
+		{
+			"id": 5,
+			"title": "Promotion 5"
+		},
+		{
+			"id": 6,
+			"title": "Promotion 6"
+		},
+		{
+			"id": 7,
+			"title": "Promotion 7"
+		},
+		{
+			"id": 8,
+			"title": "Promotion 8"
+		},
+		{
+			"id": 9,
+			"title": "Promotion 9"
+		},
+		{
+			"id": 10,
+			"title": "Promotion 10"
+		},
+		{
+			"id": 11,
+			"title": "Promotion 11"
+		},
+		{
+			"id": 12,
+			"title": "Promotion 12"
+		}
+	]
 }
