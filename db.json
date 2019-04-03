@@ -92,51 +92,63 @@
 	],
 	"coupons": [{
 			"id": 1,
-			"title": "Post 1"
+			"title": "Sodexo",
+			"description": "Get discounts when you shop!"
 		},
 		{
 			"id": 2,
-			"title": "Post 2"
+			"title": "Sogo Coupons!",
+			"description": "Get 15% less room rate! (Except econo)."
 		},
 		{
 			"id": 3,
-			"title": "Post 3"
+			"title": "Bench",
+			"description": "Get 50% off when you shop at Bench!"
 		},
 		{
 			"id": 4,
-			"title": "Post 4"
+			"title": "Penshoppe",
+			"description": "Get 15% discount on selected items."
 		},
 		{
 			"id": 5,
-			"title": "Post 5"
+			"title": "Sports! Barber",
+			"description": "Get free haircut."
 		},
 		{
 			"id": 6,
-			"title": "Post 6"
+			"title": "SM Cinema",
+			"description": "Buy 1 Get 1 FREE."
 		},
 		{
 			"id": 7,
-			"title": "Post 7"
+			"title": "Angel's Burger",
+			"description": "Get free ketchup and drinks as compliment."
 		},
 		{
 			"id": 8,
-			"title": "Post 8"
+			"title": "Jolly Gee",
+			"description": "Free fries when you buy any meal."
 		},
 		{
 			"id": 9,
-			"title": "Post 9"
+			"title": "Mark's Burger",
+			"description": "Free iced tea!"
 		},
 		{
 			"id": 10,
-			"title": "Post 10"
+			"title": "Shawarma Buck",
+			"description": "Buy 1 Get 1 Free!"
 		},
 		{
 			"id": 11,
-			"title": "Post 11"
+			"title": "Martin's Delight",
+			"description": "Free upzsize of any flavor of milktea."
 		},
 		{
 			"id": 12,
-			"title": "Post 12"
+			"title": "Black Burger",
+			"description": "Free fries and iced tea."
 		}
 	],
 	"promotions": [{
@@ -187,5 +199,53 @@
 			"id": 12,
 			"title": "Promotion 12"
 		}
+	],
+
+	"rewards": [{
+			"id": 1,
+			"title": "Go3 Nails",
+			"description": "Nails and Spa"
+		},
+		{
+			"id": 2,
+			"title": "Go3 Solutions",
+			"description": "IT Development"
+		},
+		{
+			"id": 3,
+			"title": "Go3 Cinema",
+			"description": "Entertainment and Movies"
+		},
+		{
+			"id": 4,
+			"title": "Go3 Pub",
+			"description": "Sport Pub"
+		},
+		{
+			"id": 5,
+			"title": "Go3 Bar",
+			"description": "Drinks and Cocktails"
+		},
+		{
+			"id": 6,
+			"title": "Go3 Hotel",
+			"description": "So clean, so good"
+		},
+		{
+			"id": 7,
+			"title": "Go3 Grocery",
+			"description": "We got it all for you!"
+		},
+		{
+			"id": 8,
+			"title": "Go3 Restaurant",
+			"description": "The house that built fried noodles"
+		},
+		{
+			"id": 9,
+			"title": "Go3 Gadgets",
+			"description": "HomeCredit is applicable!"
+		}
 	]
+
 }
